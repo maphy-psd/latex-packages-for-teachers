@@ -6,6 +6,7 @@ A curated list of awesome LaTeX packages for teachers
 
 
 ## Math
+-   [derivative](https://www.ctan.org/pkg/derivative) - Nice and easy derivatives.
 -   [numerica](https://www.ctan.org/pkg/numerica) - Numerically evaluate mathematical expressions in LATEX form.
 
 ## Physics
