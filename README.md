@@ -8,6 +8,7 @@ A curated list of awesome LaTeX packages for teachers
 ## Math
 -   [derivative](https://www.ctan.org/pkg/derivative) - Nice and easy derivatives.
 -   [numerica](https://www.ctan.org/pkg/numerica) - Numerically evaluate mathematical expressions in LATEX form.
+-   [truthtable](https://www.ctan.org/pkg/truthtable) - Automatically generate truth tables for given variables and statements.
 
 ## Physics
 -   [CircuiTikZ](https://www.ctan.org/pkg/circuitikz) - Draw electrical networks with TikZ.
