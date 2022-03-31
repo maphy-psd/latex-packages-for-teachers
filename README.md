@@ -6,6 +6,7 @@ A curated list of awesome LaTeX packages for teachers
 
 
 ## Math
+-   [annotate-equations](https://www.ctan.org/pkg/annotate-equations) - Easily annotate math equations using TikZ.
 -   [derivative](https://www.ctan.org/pkg/derivative) - Nice and easy derivatives.
 -   [interval](https://ctan.org/pkg/interval) - Format mathematical intervals, ensuring proper spacing.
 -   [numerica](https://www.ctan.org/pkg/numerica) - Numerically evaluate mathematical expressions in LATEX form.
