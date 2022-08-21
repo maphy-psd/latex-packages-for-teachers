@@ -21,3 +21,6 @@ A curated list of awesome LaTeX packages for teachers
 ## Data visualization
 -   [pgf-pie](https://www.ctan.org/pkg/pgf-pie) - Draw pie charts, using PGF.
 -   [sankey](https://www.ctan.org/pkg/sankey) - Draw Sankey diagrams with TikZ.
+
+## Misc
+-   [fancyqr](https://www.ctan.org/pkg/fancyqr) - Fancy QR-Codes with TikZ.
