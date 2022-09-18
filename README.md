@@ -25,3 +25,4 @@ A curated list of awesome LaTeX packages for teachers
 
 ## Misc
 -   [fancyqr](https://www.ctan.org/pkg/fancyqr) - Fancy QR-Codes with TikZ.
+-   [opencolor](https://www.ctan.org/pkg/opencolor) – Simple use of the Open Color colors.
