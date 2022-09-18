@@ -10,7 +10,7 @@ A curated list of awesome LaTeX packages for teachers
 -   [derivative](https://www.ctan.org/pkg/derivative) - Nice and easy derivatives.
 -   [interval](https://ctan.org/pkg/interval) - Format mathematical intervals, ensuring proper spacing.
 -   [numerica](https://www.ctan.org/pkg/numerica) - Numerically evaluate mathematical expressions in LATEX form.
--   [truthtable](https://www.ctan.org/pkg/truthtable) - Automatically generate truth tables for given variables and statements.
+-   [truthtable](https://www.ctan.org/pkg/truthtable) - Automatically generate truth tables for given variables and statements *or* [luatruthtable](https://www.ctan.org/pkg/luatruthtable) - Generate truth tables of boolean values in LuaLATEX.
 
 
 ## Physics
