@@ -11,7 +11,6 @@ A curated list of awesome LaTeX packages for teachers
 -   [interval](https://ctan.org/pkg/interval) - Format mathematical intervals, ensuring proper spacing.
 -   [numerica](https://www.ctan.org/pkg/numerica) - Numerically evaluate mathematical expressions in LATEX form.
 -   [truthtable](https://www.ctan.org/pkg/truthtable) - Automatically generate truth tables for given variables and statements.
--   [wheelchart](https://www.ctan.org/pkg/wheelchart) - Draw wheelcharts with TikZ.
 
 
 ## Physics
@@ -22,6 +21,7 @@ A curated list of awesome LaTeX packages for teachers
 ## Data visualization
 -   [pgf-pie](https://www.ctan.org/pkg/pgf-pie) - Draw pie charts, using PGF.
 -   [sankey](https://www.ctan.org/pkg/sankey) - Draw Sankey diagrams with TikZ.
+-   [wheelchart](https://www.ctan.org/pkg/wheelchart) - Draw wheelcharts with TikZ.
 
 ## Misc
 -   [fancyqr](https://www.ctan.org/pkg/fancyqr) - Fancy QR-Codes with TikZ.
