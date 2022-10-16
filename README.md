@@ -18,6 +18,8 @@ A curated list of awesome LaTeX packages for teachers
 -   [CircuiTikZ](https://www.ctan.org/pkg/circuitikz) - Draw electrical networks with TikZ.
 -   [pgf-interference](https://www.ctan.org/pkg/pgf-interference) - Drawing interference patterns with PGF/TikZ.
 -   [endiagram](https://www.ctan.org/pkg/endiagram) - Easy creation of potential energy curve diagrams.
+-   [pgf-interference](https://www.ctan.org/pkg/pgf-interference) - Drawing interference patterns with PGF/TikZ.
+-   [pgf-PeriodicTable](https://www.ctan.org/pkg/pgf-periodictable) - Create custom periodic tables of elements.
 
 ## Data visualization
 -   [pgf-pie](https://www.ctan.org/pkg/pgf-pie) - Draw pie charts, using PGF.
