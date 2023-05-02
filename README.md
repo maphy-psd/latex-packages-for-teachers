@@ -13,7 +13,11 @@ A curated list of awesome LaTeX packages for teachers
 -   [calculator](https://www.ctan.org/pkg/calculator) - Use LATEX as a scientific calculator.
 -   [truthtable](https://www.ctan.org/pkg/truthtable) - Automatically generate truth tables for given variables and statements *or* [luatruthtable](https://www.ctan.org/pkg/luatruthtable) - Generate truth tables of boolean values in LuaLATEX.
 -   [ResolSysteme](https://www.ctan.org/pkg/resolsysteme) - Work on linear systems using xint or pyluatex.
-
+-   [luacas](https://www.ctan.org/pkg/luacas) - A computer algebra system for users of LuaLATEX.
+-   [luamodulartables](https://www.ctan.org/pkg/luamodulartables) - Generate modular addition and multiplication tables.
+-   [WriteOnGrid](https://www.ctan.org/pkg/writeongrid) - Write on grid lines.
+-   [diffcoeff](https://www.ctan.org/pkg/diffcoeff) - Write differential coefficients easily and consistently.
+-   [OutilsGeomTikZ](https://www.ctan.org/pkg/outilsgeomtikz) - Some geometric tools, with TikZ.
 
 ## Physics
 -   [CircuiTikZ](https://www.ctan.org/pkg/circuitikz) - Draw electrical networks with TikZ.
@@ -32,6 +36,7 @@ A curated list of awesome LaTeX packages for teachers
 ## Misc
 -   [fancyqr](https://www.ctan.org/pkg/fancyqr) - Fancy QR-Codes with TikZ.
 -   [opencolor](https://www.ctan.org/pkg/opencolor) – Simple use of the Open Color colors.
+-   [xwatermark](https://ctan.org/pkg/xwatermark?lang=de) - Graphics and text watermarks on selected pages.
 
 ## Fonts
 -   [neo-euler](https://www.ctan.org/pkg/neo-euler) - OpenType version of Hermann Zapf's Euler maths font.
