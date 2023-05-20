@@ -37,6 +37,7 @@ A curated list of awesome LaTeX packages for teachers
 -   [fancyqr](https://www.ctan.org/pkg/fancyqr) - Fancy QR-Codes with TikZ.
 -   [opencolor](https://www.ctan.org/pkg/opencolor) – Simple use of the Open Color colors.
 -   [xwatermark](https://ctan.org/pkg/xwatermark?lang=de) - Graphics and text watermarks on selected pages.
+-   [hvfloat](https://www.ctan.org/pkg/hvfloat) - Controlling captions, fullpage and doublepage floats.
 
 ## Fonts
 -   [neo-euler](https://www.ctan.org/pkg/neo-euler) - OpenType version of Hermann Zapf's Euler maths font.
