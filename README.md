@@ -18,6 +18,9 @@ A curated list of awesome LaTeX packages for teachers
 -   [WriteOnGrid](https://www.ctan.org/pkg/writeongrid) - Write on grid lines.
 -   [diffcoeff](https://www.ctan.org/pkg/diffcoeff) - Write differential coefficients easily and consistently.
 -   [OutilsGeomTikZ](https://www.ctan.org/pkg/outilsgeomtikz) - Some geometric tools, with TikZ.
+-   [mismath](https://www.ctan.org/pkg/mismath) - Miscellaneous mathematical macros.
+-   [ibrackets](https://www.ctan.org/pkg/ibrackets) - Intelligent brackets.
+-   [luanumint](https://www.ctan.org/pkg/luanumint) - Numerical integration using Lua inside LATEX documents.
 
 ## Physics
 -   [CircuiTikZ](https://www.ctan.org/pkg/circuitikz) - Draw electrical networks with TikZ.
@@ -38,6 +41,7 @@ A curated list of awesome LaTeX packages for teachers
 -   [opencolor](https://www.ctan.org/pkg/opencolor) – Simple use of the Open Color colors.
 -   [xwatermark](https://ctan.org/pkg/xwatermark?lang=de) - Graphics and text watermarks on selected pages.
 -   [hvfloat](https://www.ctan.org/pkg/hvfloat) - Controlling captions, fullpage and doublepage floats.
+-   [lastpage](https://www.ctan.org/pkg/lastpage) - Reference last page for Page N of M type footers.
 
 ## Fonts
 -   [neo-euler](https://www.ctan.org/pkg/neo-euler) - OpenType version of Hermann Zapf's Euler maths font.
