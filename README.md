@@ -14,6 +14,7 @@ A curated list of awesome LaTeX packages for teachers
 -   [truthtable](https://www.ctan.org/pkg/truthtable) - Automatically generate truth tables for given variables and statements *or* [luatruthtable](https://www.ctan.org/pkg/luatruthtable) - Generate truth tables of boolean values in LuaLATEX.
 -   [ResolSysteme](https://www.ctan.org/pkg/resolsysteme) - Work on linear systems using xint or pyluatex.
 -   [luacas](https://www.ctan.org/pkg/luacas) - A computer algebra system for users of LuaLATEX.
+-   [lualinalg](https://www.ctan.org/pkg/lualinalg) - A linear algebra package for LuaLATEX.
 -   [luamodulartables](https://www.ctan.org/pkg/luamodulartables) - Generate modular addition and multiplication tables.
 -   [WriteOnGrid](https://www.ctan.org/pkg/writeongrid) - Write on grid lines.
 -   [diffcoeff](https://www.ctan.org/pkg/diffcoeff) - Write differential coefficients easily and consistently.
