@@ -23,6 +23,7 @@ A curated list of awesome LaTeX packages for teachers
 -   [ibrackets](https://www.ctan.org/pkg/ibrackets) - Intelligent brackets.
 -   [luanumint](https://www.ctan.org/pkg/luanumint) - Numerical integration using Lua inside LATEX documents.
 -   [tkz-bernoulli](https://www.ctan.org/pkg/tkz-bernoulli) - Draw Bernoulli trees with TikZ.
+-   [xfrac](https://www.ctan.org/pkg/xfrac) - Split-level fractions.
 
 ## Physics
 -   [CircuiTikZ](https://www.ctan.org/pkg/circuitikz) - Draw electrical networks with TikZ.
