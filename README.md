@@ -45,6 +45,7 @@ A curated list of awesome LaTeX packages for teachers
 -   [xwatermark](https://ctan.org/pkg/xwatermark?lang=de) - Graphics and text watermarks on selected pages.
 -   [hvfloat](https://www.ctan.org/pkg/hvfloat) - Controlling captions, fullpage and doublepage floats.
 -   [lastpage](https://www.ctan.org/pkg/lastpage) - Reference last page for Page N of M type footers.
+-   [dashrulex](https://www.ctan.org/pkg/dashrulex) - Draw dashed rules.
 
 ## Fonts
 -   [neo-euler](https://www.ctan.org/pkg/neo-euler) - OpenType version of Hermann Zapf's Euler maths font.
